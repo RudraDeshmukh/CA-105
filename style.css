@@ -1,0 +1,16 @@
+body{
+    background-color: brown;
+    color: black;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+#webcam_live{
+    border: 2px ridge;
+    width: 370px;
+    height: 320px;
+}
+.name_of_objects, #object, #accuracy{
+    color: aquamarine;
+}
